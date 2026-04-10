@@ -42,7 +42,7 @@ Unlike standard U-Net, this architecture incorporates **Attention Gates**. These
 Below are sample predictions from the test set. The model shows high precision in identifying tumor boundaries, even in complex MRI structures.
 
 <p align="center">
-  <img src="img_2.jpg" alt="Segmentation Showcase" width="100%" />
+  <img src="img_2.png" alt="Segmentation Showcase" width="100%" />
 </p>
 
 * **Original MRI:** Raw input scan.
